@@ -1,0 +1,26 @@
+{
+  "name": "ionic-bower",
+  "version": "1.3.5",
+  "description": "Bower repository for [Ionic Framework](http://github.com/driftyco/ionic) v1 (Ionic 2+ uses npm)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcminit/ionic-bower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcminit/ionic-bower/issues"
+  },
+  "homepage": "https://github.com/mcminit/ionic-bower#readme",
+  "dependencies": {
+    "angular": "^1.5.11",
+    "angular-animate": "^1.5.11",
+    "angular-sanitize": "^1.5.11",
+    "angular-ui-router": "^0.2.18"
+  }
+}
