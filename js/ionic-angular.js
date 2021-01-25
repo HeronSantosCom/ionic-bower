@@ -13754,7 +13754,7 @@ function($compile, $ionicConfig, $ionicBind, $ionicViewSwitcher) {
       //attributes we pass down won't be interpolated yet - we want
       //to pass down the 'raw' versions of the attributes
       var tabNavTemplate = '<ion-tab-nav' +
-        attrStr('on-double-tab', attr.onDoubleTap) +
+        attrStr('on-double-tap', attr.onDoubleTap) +
         attrStr('on-hold', attr.onHold) +
         attrStr('ng-click', attr.ngClick) +
         attrStr('title', attr.title) +
