@@ -1,6 +1,6 @@
 {
   "name": "ionic-bower",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "description": "Bower repository for [Ionic Framework](http://github.com/driftyco/ionic) v1 (Ionic 2+ uses npm)",
   "main": "./js/ionic.min.js",
   "scripts": {
