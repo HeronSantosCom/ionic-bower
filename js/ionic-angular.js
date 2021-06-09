@@ -2,7 +2,7 @@
  * Copyright 2015 Drifty Co.
  * http://drifty.com/
  *
- * Ionic, v1.3.5
+ * Ionic, v1.3.10
  * A powerful HTML5 mobile app framework.
  * http://ionicframework.com/
  *
@@ -13754,8 +13754,6 @@ function($compile, $ionicConfig, $ionicBind, $ionicViewSwitcher) {
       //attributes we pass down won't be interpolated yet - we want
       //to pass down the 'raw' versions of the attributes
       var tabNavTemplate = '<ion-tab-nav' +
-        attrStr('on-double-tap', attr.onDoubleTap) +
-        attrStr('on-hold', attr.onHold) +
         attrStr('ng-click', attr.ngClick) +
         attrStr('title', attr.title) +
         attrStr('icon', attr.icon) +
