@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/mcminit/ionic-bower#readme",
   "dependencies": {
-    "angular": "~1.5.11",
-    "angular-animate": "~1.5.11",
-    "angular-sanitize": "~1.5.11",
-    "@uirouter/angularjs": "^0.2.18"
+    "angular": "~1.8.2",
+    "angular-animate": "~1.8.2",
+    "angular-i18n": "~1.8.2",
+    "angular-md5": "~1.8.2",
+    "angular-messages": "~1.8.2",
+    "angular-sanitize": "~1.8.2",
+    "@uirouter/angularjs": "^0.3.1"
   }
 }
