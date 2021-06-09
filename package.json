@@ -8,22 +8,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcminit/ionic-bower.git"
+    "url": "git+https://github.com/HeronSantosCom/ionic-bower.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mcminit/ionic-bower/issues"
+    "url": "https://github.com/HeronSantosCom/ionic-bower/issues"
   },
-  "homepage": "https://github.com/mcminit/ionic-bower#readme",
+  "homepage": "https://github.com/HeronSantosCom/ionic-bower#readme",
   "dependencies": {
-    "angular": "~1.8.2",
-    "angular-animate": "~1.8.2",
-    "angular-i18n": "~1.8.2",
-    "angular-md5": "~1.8.2",
-    "angular-messages": "~1.8.2",
-    "angular-sanitize": "~1.8.2",
-    "@uirouter/angularjs": "^0.3.1"
+    "angular": "^1.8.2",
+    "angular-animate": "^1.8.2",
+    "angular-cookies": "^1.8.2",
+    "angular-i18n": "^1.8.2",
+    "angular-md5": "^0.1.10",
+    "angular-messages": "^1.8.2",
+    "angular-sanitize": "^1.8.2",
+    "angular-ui-router": "^1.0.29"
   }
 }
