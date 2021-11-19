@@ -2,7 +2,7 @@
  * Copyright 2015 Drifty Co.
  * http://drifty.com/
  *
- * Ionic, v1.3.10
+ * Ionic, v1.3.20
  * A powerful HTML5 mobile app framework.
  * http://ionicframework.com/
  *
